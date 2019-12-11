@@ -1,0 +1,14 @@
+body {background-color: #e0c6ce}
+p {color:black;
+    font-size:30px;
+	font-family:"Avenir";}
+
+h1 {color:black;
+    font-size:40px;
+	font-family:"Avenir";}
+
+a {color:white;
+font-size:30px;
+font-family: "Avenir";}
+
+a:hover {color: black;}
